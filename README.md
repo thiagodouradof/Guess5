@@ -1,5 +1,5 @@
 # Guess5
-Um projeto utilizando diversos componentes de Python para criar um jogo de adivinhar palavras com 5 letras.
+Esse é um Projeto de Portifólio do site DATAQUEST. Ele utilizando diversos componentes de Python para criar um jogo de adivinhar palavras com 5 letras.
 
 ## Guess5 é um jogo onde o jogador vai tentar advinhar uma palavra em inglês de 5 letras.
 
