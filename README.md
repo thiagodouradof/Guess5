@@ -8,7 +8,7 @@ Esse é um Projeto de Portifólio do site DATAQUEST. Ele utilizando diversos com
 - Cada tentativa o programa retorna as letras corretas que existem na palavra certa;
 - Cada tentativa o programa retorna as letras que não estão na palavra;
 
-Todos as propriedades do Jogo podem ser alteradas, mais turnos, mais palavras, masi letras...
+Todos as propriedades do Jogo podem ser alteradas, mais turnos, mais palavras, mais letras...
 
 # O que utilizei e aprendi
 - Utilizei diversos componentes de Python;
